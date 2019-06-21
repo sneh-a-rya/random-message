@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  border-style: dashed;
+  border-width: 5px;
+  border-color: olive;
+  color: blueviolet;
+  margin-top: 40px;
+  padding: 15px;
+}
+
+body {
+    background-image: linear-gradient(to right, peachpuff , lightyellow);
+    margin: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: mediumorchid;
+}
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 30px;
+  cursor: pointer;
+  display: inline-block;
+  margin-top: 40px;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.success {
+    color: darkmagenta;
+}
+
+.success:hover {
+    background-color: darkmagenta;
+    color: white;
+}
+
+h3{
+  text-align: center;
+  font-size: 20px;
+  color: indigo;
+}
